@@ -1,7 +1,7 @@
 # vue-computed
 
 
-## Project Setup
+## Project Setupss
 ```
 npm install
 ```
