@@ -2,6 +2,7 @@
 
 
 ## Project Setupss
+## Setup Project
 ```
 npm install
 ```
